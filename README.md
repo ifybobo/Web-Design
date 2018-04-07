@@ -2,6 +2,10 @@
 Using bootstrap for building web pages.
 <!---See-->
 
-To view the html file in the folder please download bootstrap from http://getboostrap.com. It is made with bootsrap and will not work properly if the links in the bootstrap directly is not working.
+To view the html file in the folder please download bootstrap from http://getboostrap.com. 
+Extract the folder to some folder in your computer.
+Add the files from this repository to tha folder where the bootstrap folder has been extracted.
+Ensure that the codes in the html file is pointing correctly to the css files in the bootstrap folder.
+Use mozilla firefox or any other browser to view the file.
 Thank you.
 <!--enjoy-->
